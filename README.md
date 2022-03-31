@@ -3,8 +3,8 @@
 <!--
 **Libienz/Libienz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ks0927)](https://github.com/ks0927/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ks0927)](https://github.com/ks0927/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Libienz)](https://github.com/ks0927/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Libienz)](https://github.com/ks0927/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Ko
