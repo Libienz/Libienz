@@ -29,19 +29,14 @@ Here are some ideas to get you started:
 <div align="center">
 
 ## 👋 Hi there! Me, Libienz😄  
-👯 I'm junior student of Sanmyung University majoring in CS    
+<a href = "https://github.com/Libienz"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+</a>  
+<b>👯 I'm junior student of Sanmyung University majoring in CS    
+🔭 I hope to become a backend engineer using JAVA and SpringBoot    
+🌱 So I’m currently learning Algorithm with JAVA, Spring and SpringBoot  <b/>
   
 <br/>
-    
-## ⚡ Backend Developer ⚡
-    
-    
-🔭 I hope to become a backend engineer using JAVA and SpringBoot    
-    
-🌱 So I’m currently learning Algorithm with JAVA, Spring and SpringBoot  
-    
-<br/>
-    
+
 ## 💻 Tech Stacks 💻
     
 
@@ -68,19 +63,15 @@ Here are some ideas to get you started:
 
 
 <br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Libienz&show_icons=true&theme=radical)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Libienz)](https://github.com/Libienz/github-readme-stats)
 -->
 
 <br/>
 
-## 🌹 It's Me 🌹
-<a href = "https://github.com/Libienz"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
-</a>  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Libienz&show_icons=true&theme=radical)
-
-<br/>
 
 
   
