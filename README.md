@@ -18,12 +18,7 @@
 <div align="center">
 
 ## 👋 Hi there! Me, Libienz😄  
-<!-- <a href = "https://github.com/Libienz"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
-</a> 
-<b>👯 I'm 3rd year student of Sanmyung University majoring in CS    
-🔭 I hope to become a backend engineer using JAVA and SpringBoot    
-🌱 So I’m currently learning Algorithm with JAVA, Spring and SpringBoot  <b/>
- -->  
+
 <br/>
 
 ## 💻 Tech Stacks 💻
