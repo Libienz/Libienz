@@ -43,7 +43,7 @@
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Libienz&show_icons=true&theme=github_dark)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/yellow7171)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yellow7171)](https://solved.ac/yellow7171)
 
 
 <br/>
